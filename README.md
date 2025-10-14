@@ -164,7 +164,7 @@ Average rating by branch:
 
 
 
-Sales per time of each day:
+Sales per time of each day each workday:
 'Friday','Afternoon','58'
 'Friday','Evening','51'
 'Friday','Morning','29'
@@ -187,5 +187,25 @@ Sales per time of each day:
 'Wednesday','Evening','58'
 'Wednesday','Morning','22'
 
+
+customer type and revenue:
+'Normal','157261.2930'
+'Member','163625.1015'
+
+city and average gross margin:
+'Yangon','476.19'
+'Naypyitaw','476.19'
+'Mandalay','476.19'
+
+
+city and tax percent:
+'Naypyitaw','16.09'
+'Mandalay','15.13'
+'Yangon','14.87'
+
+
+customer and tax percent:
+'Normal','15.09805040'
+'Member','15.61457214'
 
 
