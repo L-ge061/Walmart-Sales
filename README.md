@@ -2,6 +2,18 @@
 
 This project explores Walmart sales data across three branches and multiple product lines. The analysis includes data cleaning, exploration, and visualizations using tableau dashboards.
 
+## Dashboard Overview
+<img width="1403" height="751" alt="WalmartSales_dashboard" src="https://github.com/user-attachments/assets/339f9a54-7718-43a1-b235-59887b9477ae" />
+
+
+**Dashboard Insights:**
+- Displays customer ratings by **day and time**, revealing that ratings peak on **Mondays and afternoons**.  
+- Compares **revenue vs gross income** across **city, gender, and product line**, showing Naypyitaw and female customers contributing more revenue.  
+- Highlights **revenue by product line**, with *Food and Beverages* and *Electronic Accessories* performing the best.  
+- Shows **monthly revenue trends**, where sales dipped in February but rebounded in March.
+
+---
+
 ## Key Insights
 - **Top Performing City:** Naypyitaw generated the highest revenue (~110K), indicating stronger customer spending compared to other cities.  
 - **Best Branch:** Branch C leads in both revenue and customer satisfaction (average rating 7.06).  
@@ -128,6 +140,11 @@ This project explores Walmart sales data across three branches and multiple prod
 | Normal        | 157,261.29 |
 
 
-
+## Business Recommendations
+1. **Enhance Loyalty Programs:** Since members generate slightly higher revenue, Walmart can expand or reward its membership system to encourage more sign-ups.  
+2. **Target Underperforming Categories:** Improve marketing and promotions for *Fashion accessories* and *Food and beverages* to increase quantity sold.  
+3. **Capitalize on Peak Times:** Schedule key promotions during **afternoons** and **Mondays**, when customer satisfaction is highest.  
+4. **City-Specific Campaigns:** Focus more advertising and inventory in **Naypyitaw**, the top-performing city, while identifying factors limiting sales in Mandalay.  
+5. **Gender-Focused Insights:** Female customers drive higher revenue—Walmart could tailor product recommendations and deals toward popular categories among them.
 
 
