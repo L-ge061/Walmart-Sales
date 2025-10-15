@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-This project explores Walmart sales data across three branches and multiple product lines. The analysis includes data cleaning, exploration, and insights to inform future Tableau dashboards.
+This project explores Walmart sales data across three branches and multiple product lines. The analysis includes data cleaning, exploration, and visualizations using tableau dashboards.
 
 ## General Overview
 - **Branches:** 3 (A, B, C)  
@@ -12,6 +12,7 @@ This project explores Walmart sales data across three branches and multiple prod
 | A      | 339          |
 | B      | 329          |
 | C      | 327          |
+
 
 ### Sales per City
 | City       | Sales       |
