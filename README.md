@@ -2,6 +2,18 @@
 
 This project explores Walmart sales data across three branches and multiple product lines. The analysis includes data cleaning, exploration, and visualizations using tableau dashboards.
 
+## Key Insights
+- **Top Performing City:** Naypyitaw generated the highest revenue (~110K), indicating stronger customer spending compared to other cities.  
+- **Best Branch:** Branch C leads in both revenue and customer satisfaction (average rating 7.06).  
+- **Product Line Trends:**  
+  - *Electronic accessories* had the highest quantity sold (961), showing strong demand.  
+  - *Food and beverages* generated the highest revenue but lower performance scores, suggesting high prices but weaker sales consistency.  
+  - *Health and beauty* sold less but had high ratings and good performance, showing customer satisfaction.  
+- **Customer Behavior:** Members spent slightly more than non-members, hinting that loyalty programs could be profitable.  
+- **Sales Over Time:** January was the most profitable month, while February had the lowest revenue, possibly due to seasonal factors.  
+- **Ratings Patterns:** Ratings peak in the **afternoon** and on **Mondays**, suggesting better customer experience at those times.  
+- **Balanced Demographics:** Gender and customer type are evenly distributed, ensuring no bias in customer base.
+
 ## General Overview
 - **Branches:** 3 (A, B, C)  
 - **Cities:** Yangon, Naypyitaw, Mandalay  
@@ -27,8 +39,6 @@ This project explores Walmart sales data across three branches and multiple prod
 | C      | 7.06       |
 | A      | 7.02       |
 | B      | 6.79       |
-
----
 
 ## Product Lines
 - Food and beverages  
@@ -70,7 +80,6 @@ This project explores Walmart sales data across three branches and multiple prod
 | Home and lifestyle     | 5.69        | Good       |
 | Electronic accessories | 5.69        | Good       |
 
----
 
 ## Revenue & Costs by Month
 | Month    | Revenue      | COG        |
@@ -79,7 +88,6 @@ This project explores Walmart sales data across three branches and multiple prod
 | February | 95,727.38  | 91,168.93  |
 | March    | 108,867.15 | 103,683.00 |
 
----
 
 ## Branch & City Insights
 | Branch | City        | Revenue      |
