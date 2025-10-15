@@ -140,19 +140,23 @@ This project explores Walmart sales data across three branches and multiple prod
 | Normal        | 157,261.29 |
 
 
-## 🏬 Business Recommendations
+## Business Recommendations
 
-### 1. Boost Midweek Engagement
-Introduce **midweek promotions** or **loyalty rewards** to increase customer activity on slower days (Tuesday–Thursday).
-### 2. Capitalize on Afternoon Sales
-Schedule **targeted campaigns** and **flash sales** during peak afternoon hours when satisfaction scores are highest.
-### 3. Target Female Shoppers in Key Cities
-Expand **marketing efforts** in **Mandalay** and **Naypyitaw**, where female shoppers drive strong revenue performance.
-### 4. Grow Underperforming Product Lines
-Offer **bundle deals** or **discounts** for **Health and Beauty** items to increase visibility and sales.
-### 5. Investigate February Drop
-Review **marketing calendars**, **supply chain performance**, and **pricing strategies** to identify causes for the **February decline**.
-### 6. Enhance Customer Experience
-Maintain **quality service standards** and **feedback mechanisms** during high-traffic periods to sustain high satisfaction ratings.
+- **Boost Midweek Engagement:**  
+  Introduce midweek promotions or loyalty rewards to increase customer activity on slower days (Tuesday–Thursday).
 
+- **Capitalize on Afternoon Sales:**  
+  Schedule targeted campaigns and flash sales during peak afternoon hours when satisfaction scores are highest.
+
+- **Target Female Shoppers in Key Cities:**  
+  Expand marketing efforts in Mandalay and Naypyitaw, where female shoppers drive strong revenue performance.
+
+- **Grow Underperforming Product Lines:**  
+  Offer bundle deals or discounts for Health and Beauty items to increase visibility and sales.
+
+- **Investigate February Drop:**  
+  Review marketing calendars, supply chain performance, and pricing strategies to identify causes for the February decline.
+
+- **Enhance Customer Experience:**  
+  Maintain quality service standards and feedback mechanisms during high-traffic periods to sustain high satisfaction ratings.
 
