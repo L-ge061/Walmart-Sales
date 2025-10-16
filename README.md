@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-This project explores Walmart sales data across three branches and multiple product lines. The analysis includes data cleaning, exploration, and visualizations using tableau dashboards.
+This project explores Walmart sales data across three branchesm three cities and multiple product lines. The analysis includes data cleaning, exploration, and visualizations using tableau dashboards.
 
 ## Dashboard Overview
 <img width="1403" height="751" alt="WalmartSales_dashboard" src="https://github.com/user-attachments/assets/339f9a54-7718-43a1-b235-59887b9477ae" />
