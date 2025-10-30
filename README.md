@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-This project explores Walmart sales data across three branchesm three cities and multiple product lines. The analysis includes data cleaning, exploration using mySQL and visualizations using tableau dashboards.
+This project explores Walmart sales data across three branches, three cities and multiple product lines. The analysis includes data cleaning, exploration using mySQL and visualizations using tableau dashboards.
 
 ## Problem Statement
 
